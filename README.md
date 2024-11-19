@@ -1,9 +1,6 @@
-# BLENDED_LEARNING
-# Implementation of Logistic Regression Model for Classifying Food Choices for Diabetic Patients
-<H3>NAME: Vincy Jovitha V</H3>
-<H3>REGISTER NO.: 212223230242</H3>
-<H3>EX. NO.6</H3>
-<H3>DATE:14.11.2024</H3>
+# Ex:06 Implementation of Logistic Regression Model for Classifying Food Choices for Diabetic Patients
+
+<H3>DATE:</H3>
 
 ## AIM:
 To implement a logistic regression model to classify food items for diabetic patients based on nutrition information.
